@@ -1,0 +1,208 @@
+
+.cont1{
+    height: 992px;
+    width: 800px;
+    border-style: double;
+    background-color: white;
+ }
+    
+    .topnav {
+        overflow: hidden;
+        background-color: black;
+     }
+
+    .topnav a {
+       float: left;
+       display: block;
+       color:white;
+       text-align: center;
+       padding: 14px 16px;
+       text-decoration: none;
+       font-size: 17px;
+    }
+
+    .topnav a:hover {
+       background-color: #ddd;
+       color: black;
+    }
+
+    .topnav a.active {
+       background-color: green;
+       color: white;
+    }
+
+    .topnav input[type=text] {
+       float: right;
+       padding: 6px;
+       border: none;
+       margin-top: 8px;
+       margin-right: 16px;
+       font-size: 17px;
+    }
+
+    #search-text-input{
+       border-top:thin solid  #e5e5e5;
+       border-right:thin solid #e5e5e5;
+       border-bottom:0;
+       border-left:thin solid  #e5e5e5;
+       box-shadow:1px 1px 1px 1px #e5e5e5;
+       float:left;
+       height:30px;
+       margin:.8em 0 0 .5em; 
+       outline:0;
+       padding:.4em 0 .4em .6em; 
+       width:183px; 
+    }
+   
+
+     #button-holder{
+       background-color:#f1f1f1;
+       border-top:thin solid #e5e5e5;
+       box-shadow:1px 1px 1px 1px #e5e5e5;
+       cursor:pointer;
+       float:right;
+       height:30px;
+       margin:11px 0 0 0;
+       text-align:left;
+       width:50px;
+       padding:.4em 0 .4em .6em;
+    }
+   
+     #button-holder img{
+       margin:4px;
+       width:20px; 
+    }
+  
+    .topnav input[type=text] {
+       border: 1px solid #ccc;
+    }
+
+.cont2{
+   height: 300px;
+   width: 800px;
+ }
+        
+  .btn1{
+    width: 100px;
+    height: 25px;
+    background-color:white;
+    border-radius: 0px;
+    border: 5px doble blueviolet;
+    color:black;
+  }
+
+  .btn2:hover{
+    background-color: red;
+  }
+   
+  .cont3{
+    width: 800px;
+    color:black;
+    font-size: 30px;
+    padding-left: 25%;
+  }
+
+  .font{
+    width: 800px;
+    color: black;
+    font-size: 30px;
+    padding-left: 25%;  
+  }
+
+.cont4{
+    position: relative;
+    text-align: center;
+    color: white;
+ }
+
+    .bottom-left {
+      position: absolute;
+      bottom: 8px;
+      left: 16px;
+    }
+      
+    .top-left {
+      position: absolute;
+      top: 8px;
+      left: 16px;
+    }
+
+    .top-right {
+       position: absolute;
+       top: 8px;
+       right: 16px;
+    }
+    
+    .bottom-right {
+        position: absolute;
+        bottom: 8px;
+        right: 16px;
+    }
+       
+
+
+ .cont5{
+    background-color:black;
+    height: 292px;
+}
+        
+       .blanket1{
+         background-color:white;
+         width: 160px;
+         height: 250px;
+         display: inline-block;
+         border-radius: 20px;
+        }
+       
+        .blanket2{
+            background-color: white;
+            width: 160px;
+            height: 250px;
+            display: inline-block;
+            border-radius: 10px;
+        }
+       
+        .blanket3{
+            background-color: white;
+            width: 160px;
+            height: 250px;
+            display: inline-block;
+            border-radius: 10px;
+        }
+        
+        .blanket4{
+            background-color: white;
+            width: 160px;
+            height: 250px;
+            display: inline-block;
+            border-radius: 10px;
+        }
+        
+        .btn{
+            width: 140px;
+            height: 30px;
+            background-color: yellow;
+            border-radius: 5px;
+            border: 5px doble blueviolet;
+        }
+             
+        .btn:hover{
+            background-color:green;
+        }
+             
+        .text{
+               color: black;
+               font-size: 15px;
+             }
+             
+        .btn5{
+                width: 140px;
+                height: 25px;
+                background-color: white;
+                border-radius: 5px;
+                border-color: green;
+        }
+             
+        .btn5:hover{
+                background-color: red;
+             }
